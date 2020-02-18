@@ -8,8 +8,6 @@ namespace DoorControl
 {
     class DoorCtrl
     {
-        static void Main(string[] args)
-        {
-        }
+        
     }
 }
