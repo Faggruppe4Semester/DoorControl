@@ -8,6 +8,11 @@ namespace DoorControl
 {
     class DoorCtrl
     {
+        public void Main()
+        {
+
+        }
+
         public void RequestId(int id)
         {
 
