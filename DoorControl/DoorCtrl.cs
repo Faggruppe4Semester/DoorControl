@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DoorControl
 {
-    class Program
+    class DoorCtrl
     {
         static void Main(string[] args)
         {
