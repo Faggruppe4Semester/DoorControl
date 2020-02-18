@@ -50,6 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DoorCtrl.cs" />
+    <Compile Include="IAlarm.cs" />
+    <Compile Include="IDoor.cs" />
+    <Compile Include="IEntryNotification.cs" />
+    <Compile Include="IUserValidation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

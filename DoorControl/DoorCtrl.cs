@@ -8,6 +8,20 @@ namespace DoorControl
 {
     class DoorCtrl
     {
-        
+        public void RequestId(int id)
+        {
+
+        }
+
+        public void DoorOpen()
+        {
+
+        }
+
+        public void DoorClosed()
+        {
+
+        }
+
     }
 }
