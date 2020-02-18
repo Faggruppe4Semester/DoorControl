@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 
 namespace DoorControl
 {
-    class DoorCtrl
+    class Program
     {
-        public void Main()
+        public static void Main()
         {
 
         }
+    }
+
+    class DoorCtrl
+    {
 
         public void RequestId(int id)
         {
